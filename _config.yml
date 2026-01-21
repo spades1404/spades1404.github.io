@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Rajib AHmed"
+  name             : "Rajib Ahmed"
   pronouns         : # example: "he/him"
   bio              : "Medical Student | Health Data Scientist | Researcher"
   location         : "Wales, UK"
-  employer         : "Cardiff University, LSE, Oxford University"
+  employer         : "Cardiff University, LSE"
   uri              : # URL
   email            : "x [at] y [dot] com (x = rajibahmed1404, y=gmail)" # Email address
 
